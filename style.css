@@ -1,0 +1,37 @@
+body{
+    background-color: #a5d6a7;
+    font-family: sans-serif;
+    color: #242e4c;
+    margin: 8px;
+}
+section{
+    position: relative;
+    width: 250px ;
+    height: 300px;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-right: 25px;
+    padding-left: 25px;
+    padding-bottom: 25px;
+    border-radius: 10px;
+}
+.cuadro{
+    background-color: rgba(245, 245, 245, 0.959);
+    top: 200px;
+    left: 30%;
+}
+
+.hola{
+    color: grey;
+}
+
+#boton{
+    width: 150px;
+    height: 30px;
+    background-color: white;
+    border-radius: 15px;
+    border: 1px solid #ebebf2;
+    padding: 2px ;
+    margin-left: 40px;
+}
